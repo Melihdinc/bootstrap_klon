@@ -1,0 +1,67 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+.bg-yellow{
+    background-color: #FFC017;
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid #222222;
+}
+
+.navbar-nav li{
+    padding-right: 5px;
+}
+
+.wj{
+    width: 585px;
+}
+
+.fd{
+    position: relative;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.l{
+    display: block;
+}
+
+.wk{
+    left: 145px;
+    max-width: 903px;
+}
+
+.bc{
+    flex-direction: row;
+    align-items: center;
+}
+
+.fq{
+    color: #F2F2F2;
+}
+
+.ffq{
+    fill:#0061ff;
+}
+
+.list-buttons > li{
+    margin-bottom: 10px;
+}
+
+.list-buttons .btn {
+    width: 100px; /* Düğme boyutunu istediğiniz ölçüde ayarlayabilirsiniz */
+}
+
+ul.list-inline.small {
+    position: relative;
+}
+
+ul.list-inline.small li.ml-auto {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
